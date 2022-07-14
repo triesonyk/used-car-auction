@@ -1,7 +1,7 @@
 # Used Car Dataset Data Analysis, Data Preprocessing and Machine Learning Modelling
 
 ## Intro 
-Hi, this is my first Machine Learning projects. The dataset is from [Kaggle](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). This is also my bootcamp's final project. This is a team project and I acted as the team leader.
+Hi, this is my first Machine Learning projects. The dataset is from [Kaggle](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). This is also my bootcamp's final project. This is a team project and I acted as the team leader. The summary can be seen [here](https://drive.google.com/file/d/18bg6lsZcncYjw5a575cphbmv5f3fcuWq/view?usp=sharing)
 
 ## Workstages
 
